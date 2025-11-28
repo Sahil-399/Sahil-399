@@ -1,5 +1,5 @@
 # 👨‍💻 About Me:
-Hi there! I'm a passionate developer and problem solver who enjoys building efficient and scalable applications. I work primarily with Java, SQL,  web technologies, app development and generative AI and I'm constantly learning new tools and frameworks to sharpen my skills.<br><br>🔭 I’m currently working on backend systems and performance-optimized databases<br><br>🌱 Exploring Blockchain, AI, and system design<br><br>💬 Ask me about data structures, algorithms, or Java-based solutions<br><br>📫 Reach me via: [your email or LinkedIn link]<br><br>⚡ Fun fact: I automate everything I can 😄
+Hi there! I'm a passionate developer and problem solver who enjoys building efficient and scalable applications. I work primarily with Java, Python, SQL,  web technologies, app development and generative AI and I'm constantly learning new tools and frameworks to sharpen my skills.<br><br>🔭 I’m currently working on backend systems and performance-optimized databases<br><br>🌱 Exploring Blockchain, AI, and system design<br><br>💬 Ask me about data structures, algorithms, or Java-based solutions<br><br>📫 Reach me via: [your email or LinkedIn link]<br><br>⚡ Fun fact: I automate everything I can 😄
 
 
 ## 🌐 Socials:
